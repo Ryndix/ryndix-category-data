@@ -15,7 +15,11 @@ version: "2026.09"
 date-released: "2026-09-26"
 license: CC-BY-4.0
 url: "https://www.ryndix.com/cases"
+doi: 10.5281/zenodo.22974246
 identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22974246"
+    description: "Zenodo version DOI"
   - type: swh
     value: "swh:1:snp:e3f4198c5b9e806c5e7c623c23a5326caa6d2140"
     description: "Software Heritage snapshot (permanent archive)"

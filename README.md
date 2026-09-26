@@ -51,6 +51,12 @@ marked as assumptions are illustrative and are replaced by real quotes in a paid
 engagement. Nothing here is financial, legal or investment advice, and no figure is a
 promise of profit, sales or ranking.
 
+## DOI
+
+- Version DOI: [10.5281/zenodo.22974246](https://doi.org/10.5281/zenodo.22974246)
+- Concept DOI (all versions): [10.5281/zenodo.22974245](https://doi.org/10.5281/zenodo.22974245)
+- Record: <https://zenodo.org/records/22974246>
+
 ## Archival
 
 This repository is permanently archived by **Software Heritage** (operated by INRIA),
