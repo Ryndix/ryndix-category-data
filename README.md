@@ -55,7 +55,7 @@ promise of profit, sales or ranking.
 
 ```
 Ryndix (Ylemos Inc). (2026). Ryndix Amazon category data [Data set].
-https://github.com/joke52tan/ryndix-category-data
+https://github.com/Ryndix/ryndix-category-data
 ```
 
 ## Contributing a correction
