@@ -15,6 +15,10 @@ version: "2026.09"
 date-released: "2026-09-26"
 license: CC-BY-4.0
 url: "https://www.ryndix.com/cases"
+identifiers:
+  - type: swh
+    value: "swh:1:snp:e3f4198c5b9e806c5e7c623c23a5326caa6d2140"
+    description: "Software Heritage snapshot (permanent archive)"
 repository-code: "https://github.com/Ryndix/ryndix-category-data"
 keywords:
   - amazon

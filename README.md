@@ -51,6 +51,15 @@ marked as assumptions are illustrative and are replaced by real quotes in a paid
 engagement. Nothing here is financial, legal or investment advice, and no figure is a
 promise of profit, sales or ranking.
 
+## Archival
+
+This repository is permanently archived by **Software Heritage** (operated by INRIA),
+which assigns content-addressed identifiers so the exact bytes stay retrievable even if
+the repository moves:
+
+- `swh:1:snp:e3f4198c5b9e806c5e7c623c23a5326caa6d2140`
+- <https://archive.softwareheritage.org/snapshot/e3f4198c5b9e806c5e7c623c23a5326caa6d2140/>
+
 ## Citation
 
 ```
