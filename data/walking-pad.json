@@ -1,0 +1,135 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Amazon US walking pad (under-desk treadmill) category data",
+  "description": "Point-in-time Amazon US category snapshot behind the Ryndix walking pad review: top-100 listing sales, review distribution, price bands, search demand and per-unit economics at the category median price.",
+  "url": "https://www.ryndix.com/cases/walking-pad/",
+  "creator": {
+    "@type": "Organization",
+    "name": "Ryndix",
+    "legalName": "Ylemos Inc"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Ryndix",
+    "legalName": "Ylemos Inc",
+    "url": "https://www.ryndix.com/"
+  },
+  "datePublished": "2026-09-22",
+  "dateModified": "2026-09-23",
+  "temporalCoverage": "2024-09/2026-08",
+  "isAccessibleForFree": true,
+  "license": "https://www.ryndix.com/disclaimer",
+  "measurementTechnique": "Live Amazon US category snapshot (top-listing sales, keyword demand, cost per click, review distribution) combined with labelled cost estimates; estimates are identified on the page.",
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "Category monthly units (top 100 listings)",
+      "value": "150225"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Category monthly revenue (top 100 listings)",
+      "value": "USD 19500000"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Category annualised revenue (top 100)",
+      "value": "USD ~234000000"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Median listed price",
+      "value": "USD 99.99"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Average listed price",
+      "value": "USD 156"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Share of category sales from listings with under 300 reviews",
+      "value": "46.2%"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Amazon first-party share of category sales",
+      "value": "34.5%"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Gross margin at USD 99.99",
+      "value": "18.3%"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Pre-ad contribution per unit",
+      "value": "USD 15.16"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Pre-ad contribution rate",
+      "value": "15.2%"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Conversion needed to break even on ads",
+      "value": "12.3%"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Difficulty ratio",
+      "value": "1.54"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Return rate (30 days, category-wide)",
+      "value": "3.81%"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Share of listings rated 4 stars or above",
+      "value": "97.1%"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Product cost input (estimate, factory list price)",
+      "value": "CNY 300"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Freight / fulfilment / storage inputs (estimates)",
+      "value": "USD 10 / USD 15 / USD 1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Assumed conversion rate",
+      "value": "8%"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Verdict",
+      "value": "Stop for a new seller buying traffic"
+    }
+  ],
+  "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "How much does it cost to sell on Amazon? | Sell on Amazon",
+      "url": "https://sell.amazon.com/pricing"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "“It’s Been a Game Changer”: Examining Treadmill Desk Use When Working from Home (PMC9883822, NIH/PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9883822/"
+    }
+  ],
+  "ryndixPage": "https://www.ryndix.com/cases/walking-pad/",
+  "ryndixSlug": "walking-pad",
+  "authoritativeSources": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9883822/",
+    "https://sell.amazon.com/pricing"
+  ],
+  "headlineVerdict": "Walking pad (under-desk treadmill), Amazon US: the top 100 listings move 150,225 units and $19.5M a month, and 46.2% of category sales come from listings under 300 reviews, but at the $99.99 median price one unit leaves only $15.16 before advertising — an 18.3% gross margin. Verdict: stop for a seller buying traffic. A seller with their own factory could still enter, but only with a different product definition."
+}

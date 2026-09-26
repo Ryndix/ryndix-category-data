@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "Ryndix Amazon category data"
+abstract: >-
+  Point-in-time measurements of Amazon US categories - units, revenue, price bands,
+  review distribution, keyword demand, cost per click, fee load and pre-advertising
+  unit economics - behind the published Ryndix category reviews. Five categories:
+  under-desk treadmill (walking pad), home mold test kit, electric grill brush,
+  affirmation cards, and the inflatable tanning pool sub-segment of pool rafts.
+authors:
+  - name: "Ryndix (Ylemos Inc)"
+    website: "https://www.ryndix.com/"
+version: "2026.09"
+date-released: "2026-09-26"
+license: CC-BY-4.0
+url: "https://www.ryndix.com/cases"
+repository-code: "https://github.com/joke52tan/ryndix-category-data"
+keywords:
+  - amazon
+  - product research
+  - unit economics
+  - category data
+  - e-commerce

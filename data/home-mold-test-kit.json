@@ -1,0 +1,105 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Amazon US home mold test kit category data",
+  "description": "Point-in-time Amazon US category snapshot behind the Ryndix home mold test kit review: conflicting keyword fields, competitor concentration, demand trend and the goods cost the shelf price can support.",
+  "url": "https://www.ryndix.com/cases/home-mold-test-kit/",
+  "creator": {
+    "@type": "Organization",
+    "name": "Ryndix",
+    "legalName": "Ylemos Inc"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Ryndix",
+    "legalName": "Ylemos Inc",
+    "url": "https://www.ryndix.com/"
+  },
+  "datePublished": "2026-09-22",
+  "dateModified": "2026-09-23",
+  "temporalCoverage": "2025-08/2026-08",
+  "isAccessibleForFree": true,
+  "license": "https://www.ryndix.com/disclaimer",
+  "measurementTechnique": "Live Amazon US category snapshot (top-listing sales, keyword demand, cost per click, review distribution) combined with labelled cost estimates; estimates are identified on the page.",
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "Reported monthly searches (\"mold test kit for home\")",
+      "value": "168228"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Reported competing listings",
+      "value": "139"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Reported supply-demand ratio",
+      "value": "1210"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Competing listings under a near-synonym (\"home mold test\")",
+      "value": "17797"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Leader share of sub-segment sales",
+      "value": "47%"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Sub-segment monthly units",
+      "value": "23815"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Demand change year on year",
+      "value": "-48% (August 2026 vs August 2025)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Two-month average demand decline",
+      "value": "46%"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Cost per click",
+      "value": "USD 1.97 (one-year high)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Return rate",
+      "value": "7.44%"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Goods cost that paid traffic can support at USD 28.99",
+      "value": "USD -6.54"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Verdict",
+      "value": "Stop"
+    }
+  ],
+  "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "A Brief Guide to Mold, Moisture and Your Home | US EPA",
+      "url": "https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "How much does it cost to sell on Amazon? | Sell on Amazon",
+      "url": "https://sell.amazon.com/pricing"
+    }
+  ],
+  "ryndixPage": "https://www.ryndix.com/cases/home-mold-test-kit/",
+  "ryndixSlug": "home-mold-test-kit",
+  "authoritativeSources": [
+    "https://sell.amazon.com/pricing",
+    "https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home"
+  ],
+  "headlineVerdict": "Home mold test kit, Amazon US: the tool reported 168,228 searches against 139 listings, but a near-synonym reports 17,797 competitors — three orders of magnitude apart, so the field cannot carry a decision. Working backwards from the $22.99–$28.99 shelf, the goods cost that would let paid traffic break even is negative (minus $6.54 at $28.99). Verdict: stop."
+}

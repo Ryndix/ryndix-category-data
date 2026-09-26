@@ -1,0 +1,146 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Amazon US Pool Rafts & Inflatable Ride-ons — top 100 listings, September 2026",
+  "description": "Monthly units, price, fulfilment fee, review count, listing date and seller origin for the top 100 listings by sales in Amazon US category node 1272924011, plus the 1688 sourcing price for the matching product.",
+  "url": "https://www.ryndix.com/cases/tanning-pool-lounger/",
+  "creator": {
+    "@type": "Organization",
+    "name": "Ryndix",
+    "legalName": "Ylemos Inc"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Ryndix",
+    "legalName": "Ylemos Inc",
+    "url": "https://www.ryndix.com/"
+  },
+  "datePublished": "2026-09-23",
+  "dateModified": "2026-09-23",
+  "temporalCoverage": "2026-09",
+  "spatialCoverage": "Amazon US",
+  "isAccessibleForFree": true,
+  "license": "https://www.ryndix.com/disclaimer",
+  "measurementTechnique": "Live Amazon US category snapshot (top-100 listing sales, price, fulfilment fee, review count and listing date) combined with a 1688 image-reverse sourcing lookup. Cost estimates are labelled as estimates on the page.",
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "Category monthly units (top 100 listings)",
+      "value": "135138"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Tanning sub-segment monthly units",
+      "value": "11214"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Monthly searches, \"tanning pool\"",
+      "value": "37930"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Competing listings, \"tanning pool\"",
+      "value": "21746"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Cost per click, \"tanning pool\"",
+      "value": "USD 1.05"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Sub-segment price band",
+      "value": "USD 19.98-32.99"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Sub-segment median price",
+      "value": "USD 27.72"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Segment leader price",
+      "value": "USD 26.99"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Segment leader monthly units",
+      "value": "2698"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Segment leader reviews",
+      "value": "9331"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Fulfilment fee range across the sub-segment",
+      "value": "USD 8.21-10.29"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Fulfilment, freight and referral fee at USD 26.99",
+      "value": "USD 17.05"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Margin ceiling at USD 26.99 with zero goods cost",
+      "value": "36.8%"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Real gross margin at the 1688 list price",
+      "value": "1.8%"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Minimum viable price at the 1688 list price",
+      "value": "USD 44.89"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "1688 image-reverse sourcing price for the matching product",
+      "value": "CNY 68 (about USD 9.44)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Segment leader share of sub-segment units",
+      "value": "24.1%"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Largest single brand share of sub-segment units (Jasonwell)",
+      "value": "49.4%"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Listings launched in 2026 inside the category top 100",
+      "value": "9 listings, 9859 units a month"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Segment leader units, June 2026 peak vs September 2026",
+      "value": "38439 vs 2639"
+    }
+  ],
+  "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "CPSC — Joint Statement on Above Ground Pools",
+      "url": "https://www.cpsc.gov/s3fs-public/Joint%20Statement%20on%20Above%20Ground%20Pools.pdf"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "How much does it cost to sell on Amazon? | Sell on Amazon",
+      "url": "https://sell.amazon.com/pricing"
+    }
+  ],
+  "ryndixPage": "https://www.ryndix.com/cases/tanning-pool-lounger/",
+  "ryndixSlug": "tanning-pool-lounger",
+  "authoritativeSources": [
+    "https://sell.amazon.com/pricing",
+    "https://www.cpsc.gov/s3fs-public/Joint%20Statement%20on%20Above%20Ground%20Pools.pdf"
+  ],
+  "headlineVerdict": "Inflatable tanning pool lounger, Amazon US: the category moves 135,138 units a month and the tanning sub-segment 11,214, but at the segment leader's $26.99 the fulfilment fee, freight and referral fee consume $17.05 before a single unit of goods is paid for. That leaves a 36.8% margin ceiling with the goods costing nothing, and about 1.8% at the 1688 list price. Reaching a 35% margin needs a price of $44.89 against a thirteen-year segment high of $32.99. Verdict: no."
+}

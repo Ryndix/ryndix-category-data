@@ -1,0 +1,105 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Amazon US affirmation cards category data",
+  "description": "Point-in-time Amazon US category snapshot behind the Ryndix Badass affirmation cards review: click cost, sourcing cost, margin, demand trend and per-unit economics at the category leader price.",
+  "url": "https://www.ryndix.com/cases/badass-affirmation-cards/",
+  "creator": {
+    "@type": "Organization",
+    "name": "Ryndix",
+    "legalName": "Ylemos Inc"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Ryndix",
+    "legalName": "Ylemos Inc",
+    "url": "https://www.ryndix.com/"
+  },
+  "datePublished": "2026-09-22",
+  "dateModified": "2026-09-23",
+  "temporalCoverage": "2025-08/2026-08",
+  "isAccessibleForFree": true,
+  "license": "https://www.ryndix.com/disclaimer",
+  "measurementTechnique": "Live Amazon US category snapshot (top-listing sales, keyword demand, cost per click, review distribution) combined with labelled cost estimates; estimates are identified on the page.",
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "Cost per click",
+      "value": "USD 0.45"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Cost per click one year earlier",
+      "value": "USD 0.94"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Gross margin at USD 16.90",
+      "value": "50.7%"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Goods cost, identical boxed deck (1688)",
+      "value": "CNY 7.5 (~USD 1.04)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Fulfilment cost range (100-400 g item)",
+      "value": "USD 3.4-4.9"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Segment monthly units (50 direct rivals)",
+      "value": "74000"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Demand change year on year",
+      "value": "-40% (August 2026 vs August 2025)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Competing listings under the head keyword",
+      "value": "29240"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Conversion needed to break even on ads at USD 16.90",
+      "value": "5.5%"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Price that only breaks even",
+      "value": "USD 12.99"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Price that loses money on ads",
+      "value": "USD 9.99"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Verdict",
+      "value": "Worth testing as a short-cycle position"
+    }
+  ],
+  "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "What Does Copyright Protect? (FAQ) | U.S. Copyright Office",
+      "url": "https://www.copyright.gov/help/faq/faq-protect.html"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "How much does it cost to sell on Amazon? | Sell on Amazon",
+      "url": "https://sell.amazon.com/pricing"
+    }
+  ],
+  "ryndixPage": "https://www.ryndix.com/cases/badass-affirmation-cards/",
+  "ryndixSlug": "badass-affirmation-cards",
+  "authoritativeSources": [
+    "https://sell.amazon.com/pricing",
+    "https://www.copyright.gov/help/faq/faq-protect.html"
+  ],
+  "headlineVerdict": "Badass affirmation cards, Amazon US: a $0.45 cost per click (a one-year low) and a 50.7% gross margin at the category leader's $16.90 make this the only one of our four reviews whose unit economics hold. Identical boxed decks list at CNY 7.5 on 1688. Demand is down 40% year on year, so it is a short-cycle position. Verdict: worth testing before the holiday peak."
+}
