@@ -101,5 +101,34 @@
     "https://sell.amazon.com/pricing",
     "https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home"
   ],
-  "headlineVerdict": "Home mold test kit, Amazon US: the tool reported 168,228 searches against 139 listings, but a near-synonym reports 17,797 competitors — three orders of magnitude apart, so the field cannot carry a decision. Working backwards from the $22.99–$28.99 shelf, the goods cost that would let paid traffic break even is negative (minus $6.54 at $28.99). Verdict: stop."
+  "headlineVerdict": "Home mold test kit, Amazon US: the tool reported 168,228 searches against 139 listings, but a near-synonym reports 17,797 competitors — three orders of magnitude apart, so the field cannot carry a decision. Working backwards from the $22.99–$28.99 shelf, the goods cost that would let paid traffic break even is negative (minus $6.54 at $28.99). Verdict: stop.",
+  "unitEconomics": {
+    "description": "Canonical unit-economics fields for cross-category comparison. A null value means the review never recorded that measurement; see notMeasured. Values are reused from variableMeasured, not recomputed.",
+    "priceBasis": "derived from the $28.99 test price",
+    "fields": {
+      "pricePointMeasured": {
+        "value": "USD -6.54",
+        "fromMetric": "Goods cost that paid traffic can support at USD 28.99",
+        "note": "derived from the $28.99 test price"
+      },
+      "grossMarginAtThatPrice": null,
+      "costPerClick": {
+        "value": "USD 1.97 (one-year high)",
+        "fromMetric": "Cost per click"
+      },
+      "breakEvenConversion": null,
+      "demandChangeYoY": {
+        "value": "-48% (August 2026 vs August 2025)",
+        "fromMetric": "Demand change year on year"
+      },
+      "verdict": {
+        "value": "Stop",
+        "fromMetric": "Verdict"
+      }
+    },
+    "notMeasured": [
+      "grossMarginAtThatPrice",
+      "breakEvenConversion"
+    ]
+  }
 }

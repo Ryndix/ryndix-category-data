@@ -131,5 +131,36 @@
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC9883822/",
     "https://sell.amazon.com/pricing"
   ],
-  "headlineVerdict": "Walking pad (under-desk treadmill), Amazon US: the top 100 listings move 150,225 units and $19.5M a month, and 46.2% of category sales come from listings under 300 reviews, but at the $99.99 median price one unit leaves only $15.16 before advertising — an 18.3% gross margin. Verdict: stop for a seller buying traffic. A seller with their own factory could still enter, but only with a different product definition."
+  "headlineVerdict": "Walking pad (under-desk treadmill), Amazon US: the top 100 listings move 150,225 units and $19.5M a month, and 46.2% of category sales come from listings under 300 reviews, but at the $99.99 median price one unit leaves only $15.16 before advertising — an 18.3% gross margin. Verdict: stop for a seller buying traffic. A seller with their own factory could still enter, but only with a different product definition.",
+  "unitEconomics": {
+    "description": "Canonical unit-economics fields for cross-category comparison. A null value means the review never recorded that measurement; see notMeasured. Values are reused from variableMeasured, not recomputed.",
+    "priceBasis": "median on-shelf price",
+    "fields": {
+      "pricePointMeasured": {
+        "value": "USD 99.99",
+        "fromMetric": "Median listed price",
+        "note": "median on-shelf price"
+      },
+      "grossMarginAtThatPrice": {
+        "value": "18.3%",
+        "fromMetric": "Gross margin at USD 99.99",
+        "note": "at that median"
+      },
+      "costPerClick": null,
+      "breakEvenConversion": {
+        "value": "12.3%",
+        "fromMetric": "Conversion needed to break even on ads",
+        "note": "advertising break-even"
+      },
+      "demandChangeYoY": null,
+      "verdict": {
+        "value": "Stop for a new seller buying traffic",
+        "fromMetric": "Verdict"
+      }
+    },
+    "notMeasured": [
+      "costPerClick",
+      "demandChangeYoY"
+    ]
+  }
 }

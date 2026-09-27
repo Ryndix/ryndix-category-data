@@ -142,5 +142,31 @@
     "https://sell.amazon.com/pricing",
     "https://www.cpsc.gov/s3fs-public/Joint%20Statement%20on%20Above%20Ground%20Pools.pdf"
   ],
-  "headlineVerdict": "Inflatable tanning pool lounger, Amazon US: the category moves 135,138 units a month and the tanning sub-segment 11,214, but at the segment leader's $26.99 the fulfilment fee, freight and referral fee consume $17.05 before a single unit of goods is paid for. That leaves a 36.8% margin ceiling with the goods costing nothing, and about 1.8% at the 1688 list price. Reaching a 35% margin needs a price of $44.89 against a thirteen-year segment high of $32.99. Verdict: no."
+  "headlineVerdict": "Inflatable tanning pool lounger, Amazon US: the category moves 135,138 units a month and the tanning sub-segment 11,214, but at the segment leader's $26.99 the fulfilment fee, freight and referral fee consume $17.05 before a single unit of goods is paid for. That leaves a 36.8% margin ceiling with the goods costing nothing, and about 1.8% at the 1688 list price. Reaching a 35% margin needs a price of $44.89 against a thirteen-year segment high of $32.99. Verdict: no.",
+  "unitEconomics": {
+    "description": "Canonical unit-economics fields for cross-category comparison. A null value means the review never recorded that measurement; see notMeasured. Values are reused from variableMeasured, not recomputed.",
+    "priceBasis": "the category's own reference price",
+    "fields": {
+      "pricePointMeasured": {
+        "value": "USD 26.99",
+        "fromMetric": "Segment leader price"
+      },
+      "grossMarginAtThatPrice": {
+        "value": "36.8%",
+        "fromMetric": "Margin ceiling at USD 26.99 with zero goods cost",
+        "note": "ceiling at zero goods cost; 1.8% at the real 1688 price"
+      },
+      "costPerClick": {
+        "value": "USD 1.05",
+        "fromMetric": "Cost per click, \"tanning pool\""
+      },
+      "breakEvenConversion": null,
+      "demandChangeYoY": null,
+      "verdict": null
+    },
+    "notMeasured": [
+      "breakEvenConversion",
+      "demandChangeYoY"
+    ]
+  }
 }

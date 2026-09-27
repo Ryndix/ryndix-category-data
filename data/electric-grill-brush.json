@@ -106,5 +106,35 @@
     "https://sell.amazon.com/pricing",
     "https://www.cpsc.gov/s3fs-public/COPF_Statement_on_Wire_Bristle_Grill_Brush_Recall.pdf"
   ],
-  "headlineVerdict": "Electric grill brush, Amazon US: 63,434 monthly searches against 1,364 competing listings (supply-demand 46.5), and six listings launched one to two months ago are already selling. But a $3.57 cost per click makes the unit economics work only above $70, while the median on-shelf price is $39.99 and the 33.2% margin there cannot carry paid traffic. Verdict: conditional on pricing above $70, a click under $2.00, and shelf presence before the March peak."
+  "headlineVerdict": "Electric grill brush, Amazon US: 63,434 monthly searches against 1,364 competing listings (supply-demand 46.5), and six listings launched one to two months ago are already selling. But a $3.57 cost per click makes the unit economics work only above $70, while the median on-shelf price is $39.99 and the 33.2% margin there cannot carry paid traffic. Verdict: conditional on pricing above $70, a click under $2.00, and shelf presence before the March peak.",
+  "unitEconomics": {
+    "description": "Canonical unit-economics fields for cross-category comparison. A null value means the review never recorded that measurement; see notMeasured. Values are reused from variableMeasured, not recomputed.",
+    "priceBasis": "the category's own reference price",
+    "fields": {
+      "pricePointMeasured": {
+        "value": "USD 39.99",
+        "fromMetric": "Median on-shelf price"
+      },
+      "grossMarginAtThatPrice": {
+        "value": "33.2%",
+        "fromMetric": "Gross margin at USD 39.99"
+      },
+      "costPerClick": {
+        "value": "USD 3.57",
+        "fromMetric": "Cost per click"
+      },
+      "breakEvenConversion": {
+        "value": "29.9%",
+        "fromMetric": "Conversion needed to break even on ads at USD 39.99"
+      },
+      "demandChangeYoY": null,
+      "verdict": {
+        "value": "Conditional above USD 70",
+        "fromMetric": "Verdict"
+      }
+    },
+    "notMeasured": [
+      "demandChangeYoY"
+    ]
+  }
 }

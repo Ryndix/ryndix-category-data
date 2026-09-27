@@ -101,5 +101,37 @@
     "https://sell.amazon.com/pricing",
     "https://www.copyright.gov/help/faq/faq-protect.html"
   ],
-  "headlineVerdict": "Badass affirmation cards, Amazon US: a $0.45 cost per click (a one-year low) and a 50.7% gross margin at the category leader's $16.90 make this the only one of our four reviews whose unit economics hold. Identical boxed decks list at CNY 7.5 on 1688. Demand is down 40% year on year, so it is a short-cycle position. Verdict: worth testing before the holiday peak."
+  "headlineVerdict": "Badass affirmation cards, Amazon US: a $0.45 cost per click (a one-year low) and a 50.7% gross margin at the category leader's $16.90 make this the only one of our four reviews whose unit economics hold. Identical boxed decks list at CNY 7.5 on 1688. Demand is down 40% year on year, so it is a short-cycle position. Verdict: worth testing before the holiday peak.",
+  "unitEconomics": {
+    "description": "Canonical unit-economics fields for cross-category comparison. A null value means the review never recorded that measurement; see notMeasured. Values are reused from variableMeasured, not recomputed.",
+    "priceBasis": "derived from the $16.90 test price",
+    "fields": {
+      "pricePointMeasured": {
+        "value": "50.7%",
+        "fromMetric": "Gross margin at USD 16.90",
+        "note": "derived from the $16.90 test price"
+      },
+      "grossMarginAtThatPrice": {
+        "value": "50.7%",
+        "fromMetric": "Gross margin at USD 16.90"
+      },
+      "costPerClick": {
+        "value": "USD 0.45",
+        "fromMetric": "Cost per click"
+      },
+      "breakEvenConversion": {
+        "value": "5.5%",
+        "fromMetric": "Conversion needed to break even on ads at USD 16.90"
+      },
+      "demandChangeYoY": {
+        "value": "-40% (August 2026 vs August 2025)",
+        "fromMetric": "Demand change year on year"
+      },
+      "verdict": {
+        "value": "Worth testing as a short-cycle position",
+        "fromMetric": "Verdict"
+      }
+    },
+    "notMeasured": []
+  }
 }
