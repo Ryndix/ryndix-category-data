@@ -122,6 +122,12 @@
       "@type": "PropertyValue",
       "name": "Segment leader units, June 2026 peak vs September 2026",
       "value": "38439 vs 2639"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Demand change year on year",
+      "value": "-7.2% (2026-08 88825 vs 2025-08 95728)",
+      "measurementTechnique": "Computed from the cached Sorftime keyword trend pull of 2026-09-23 (search_volume_trend, 24 monthly points), same month one year apart. Source file: ~/.ryndix/data/tanning-pool/trend_kw_tanningpool.json"
     }
   ],
   "citation": [
@@ -161,12 +167,15 @@
         "fromMetric": "Cost per click, \"tanning pool\""
       },
       "breakEvenConversion": null,
-      "demandChangeYoY": null,
+      "demandChangeYoY": {
+        "value": "-7.2% (2026-08 88825 vs 2025-08 95728)",
+        "fromMetric": "Demand change year on year",
+        "note": "from the cached keyword trend pull, not from the published review"
+      },
       "verdict": null
     },
     "notMeasured": [
-      "breakEvenConversion",
-      "demandChangeYoY"
+      "breakEvenConversion"
     ]
   }
 }
